@@ -30,7 +30,7 @@ SocialConnect é um site de rede social onde usuários podem criar perfis, compa
 - Horário de atendimento
 
 <h3> Branch </h3>
-- Criamos uma branch por feature e cada membro ficou responsável por duas features;
+- Criamos uma branch por feature;
 <h1>
   :dark_sunglasses: Integrantes:
 </h1>
